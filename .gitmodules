@@ -1,6 +1,6 @@
 [submodule "francium-sigma"]
 	path = francium-sigma
-	url = https://github.com/Wolfyre243/francium-sigma/tree/main
+	url = https://github.com/Wolfyre243/francium-sigma
 [submodule "francium-chat"]
 	path = francium-chat
 	url = https://github.com/Wolfyre243/francium-chat
