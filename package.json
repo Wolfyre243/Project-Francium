@@ -1,0 +1,29 @@
+{
+  "name": "project-francium",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "ollama-test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ai-sdk/react": "^0.0.60",
+    "@huggingface/hub": "^0.15.2",
+    "@langchain/community": "^0.3.2",
+    "@langchain/core": "^0.3.3",
+    "@langchain/ollama": "^0.1.0",
+    "@nanostores/react": "github:ai/react",
+    "ai": "^3.4.1",
+    "brew": "^0.0.8",
+    "chromadb": "^1.9.2",
+    "chromadb-default-embed": "^2.13.2",
+    "fs": "^0.0.1-security",
+    "langchain": "^0.3.2",
+    "ollama": "^0.5.9",
+    "react": "^18.3.1",
+    "readline-sync": "^1.4.10"
+  }
+}
