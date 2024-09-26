@@ -4,3 +4,6 @@
 [submodule "francium-chat"]
 	path = francium-chat
 	url = https://github.com/Wolfyre243/francium-chat
+[submodule "francium-discord"]
+	path = francium-discord
+	url = https://github.com/Wolfyre243/francium-discord
